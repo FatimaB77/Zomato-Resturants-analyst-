@@ -6,7 +6,7 @@ as total revenue, total number of orders, average total sales by city,
 Restaurant total sales quantity yearly, user rating and cuisines affects
 on sale. This summery will provide insight into the visualizations
 presented on the Dashboard.
-LINK
+
 
 The video overview can be found <a href='INSERT [VIDEO](https://public.tableau.com/views/finalproject_17202217828690/TotalofTopRestuarantswithTotalRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) URL HERE' target=_blank><u>here</u>.</a>.
 DOCUMENT TYPE HERE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.
