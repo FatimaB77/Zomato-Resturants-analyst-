@@ -1,11 +1,7 @@
-🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
+🚧 Triple Ten project Data 🚧
 
-# ZOMATO project 
-The Zomato Revenue Analysis involved analyzing top restaurant and customer data to gain insights into total revenue and restaurant's popularity. I conducted an in-depth analysis of sales data and identifying total revenue by location, Cuisine and customer rating. Using Tableau, I created a comprehensive dashboard and report. The findings offered strategic recommendations to optimize restaurant performance, enhance customer engagement, and improve operational efficiency.The Dashboard includes Key performance indicators such
-as total revenue, total number of orders, average total sales by city,
-Restaurant total sales quantity yearly, user rating and cuisines affects
-on sale. This summery will provide insight into the visualizations
-presented on the Dashboard.
+
+
 
 
 The video overview can be found <a href='INSERT [VIDEO](https://public.tableau.com/views/finalproject_17202217828690/TotalofTopRestuarantswithTotalRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) URL HERE' target=_blank><u>here</u>.</a>.
@@ -14,8 +10,11 @@ DOCUMENT TYPE HERE page can be found <a href='INSERT URL HERE' target=_blank><u>
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [Zomato Total Revenue Analysis](URL HERE) |Conducted analysis on Zomato’s restaurant and customer data to evaluate business performance. Focused on customer rate, restaurant popularity, and sales dynamics.
+Tech Used: Power BI, Excel, Tableau|
+| 2 | [Advanced Spreadsheets: Project(URL HERE) |Analyzed the vacation rental market in Manhattan using NYC Airbnb data, performing data cleaning and advanced spreadsheet techniques to provide investment insights.
+Tech Used: Excel|
+
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
