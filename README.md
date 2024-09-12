@@ -14,7 +14,8 @@ DOCUMENT TYPE HERE page can be found <a href='INSERT URL HERE' target=_blank><u>
 Tech Used: Power BI, Excel, Tableau|
 | 2 | [Advanced Spreadsheets: Project(URL HERE) |Analyzed the vacation rental market in Manhattan using NYC Airbnb data, performing data cleaning and advanced spreadsheet techniques to provide investment insights.
 Tech Used: Excel|
-
+| 3| Power BI project | Analyzed a Shopify app dataset to determine the key factors behind successful apps on the Shopify platform. Utilized Power BI to create KPI cards, line charts, scatterplots, and bar charts, using DAX expressions to calculate metrics such as helpful review scores and developer responsiveness.
+Tech Used: Power BI.
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
