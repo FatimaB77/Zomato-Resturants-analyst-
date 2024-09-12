@@ -8,7 +8,7 @@ on sale. This summery will provide insight into the visualizations
 presented on the Dashboard.
 LINK
 
-The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.
+The video overview can be found <a href='INSERT [VIDEO](https://public.tableau.com/views/finalproject_17202217828690/TotalofTopRestuarantswithTotalRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) URL HERE' target=_blank><u>here</u>.</a>.
 DOCUMENT TYPE HERE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.
 
 ### Table of Contents for Repository Artifacts
